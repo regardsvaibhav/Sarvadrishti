@@ -3,6 +3,8 @@
 ## Overview
 Sarvadrishti is a cutting-edge facial recognition system designed for secure identification and decentralized data storage. Built using **Python, Streamlit, OpenCV, and the Face Recognition Library**, it integrates **Pinata (IPFS)** to enable decentralized and tamper-proof storage of facial data.
 
+Sarvadrishti was made as a solution for the problem statement for the Madhya Police Department at the Smart India Hackathon Grand Finale 2024.
+
 ## Features
 - **High-Accuracy Facial Recognition**: Achieves 95% accuracy using deep learning-based models.
 - **Real-time Processing**: Supports video feed processing at **30 FPS** for live attendance tracking.
@@ -52,17 +54,5 @@ Ensure you have the following installed:
 - Users can upload facial images for decentralized storage using Pinata.
 - IPFS hashes are generated and used for secure retrieval.
 
-## Contribution
-We welcome contributions to enhance Sarvadrishti. To contribute:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m "Added new feature"`
-4. Push the branch: `git push origin feature-name`
-5. Create a Pull Request.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any queries, reach out to **Aditya Bhattacharya** or create an issue in the repository.
 
