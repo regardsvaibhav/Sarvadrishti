@@ -3,7 +3,9 @@
 ## Overview
 Sarvadrishti is a cutting-edge facial recognition system designed for secure identification and decentralized data storage. Built using **Python, Streamlit, OpenCV, and the Face Recognition Library**, it integrates **Pinata (IPFS)** to enable decentralized and tamper-proof storage of facial data.
 
-Sarvadrishti was made as a solution for the problem statement for the Madhya Police Department at the Smart India Hackathon Grand Finale 2024.
+Sarvadrishti was made as a solution for the problem statement for the **Madhya Police Department** at the **Smart India Hackathon Grand Finale 2024**.
+**(PS ID-1788)**
+
 
 ## Features
 - **High-Accuracy Facial Recognition**: Achieves 95% accuracy using deep learning-based models.
